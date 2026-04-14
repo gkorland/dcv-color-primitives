@@ -16,7 +16,7 @@ crate-type = ["staticlib", "rlib"]
 
 [dev-dependencies]
 criterion = "0.3.0"
-rand = "0.7.3"
+rand = "0.9.3"
 itertools = "0.8.2"
 
 [[bench]]
